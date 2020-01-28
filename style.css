@@ -4892,8 +4892,8 @@ blockquote {
 	margin-top: 0rem;
 	margin-bottom: 0px;
 	padding-right: 0.3vw;
-	font-size: 4.5vw;
-	line-height: 1;
+	font-size: 5.3vw;
+	line-height: 1.1;
 	font-weight: 500;
 	letter-spacing: -0.06em;
 }
@@ -6205,8 +6205,10 @@ blockquote {
 
 .main-grid {
 	position: relative;
+	margin-top: 10vh;
 	z-index: 2;
 	width: 100%;
+	height: 50vh;
 	grid-auto-flow: row dense;
 	grid-column-gap: 0px;
 	grid-row-gap: 0px;
