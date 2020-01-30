@@ -1,8 +1,4 @@
-/* Generated on: Wed Jan 08 2020 14:36:08 GMT+0000 (Coordinated Universal Time) */
-/* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
-   ========================================================================== */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 html {
 	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
@@ -5658,14 +5654,14 @@ blockquote {
 }
 
 .brand.black {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d37084824fd2a6c12a3f909_logo-black.svg");
+	background-image: url("assets/full%20logo%20-%20black.svg");
 	background-position: 50% 50%;
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 .brand.white {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d37084bd2bab6fbc57dd2ac_logo-white.svg");
+	background-image: url("assets/full%20logo%20-%20white.svg");
 	background-position: 50% 50%;
 	background-size: contain;
 	background-repeat: no-repeat;
