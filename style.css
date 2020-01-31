@@ -47,7 +47,8 @@ html {
 
 
 body {
-	margin: 0
+	margin: 0;
+	cursor: url(assets/cursor.png), pointer;
 }
 
 article,
@@ -188,7 +189,7 @@ button,
 html input[type="button"],
 input[type="reset"] {
 	-webkit-appearance: button;
-	cursor: pointer
+	cursor: url(assets/cursor.png), pointer;
 }
 
 button[disabled],
@@ -368,7 +369,7 @@ html.w-mod-touch * {
 	border: 0;
 	line-height: inherit;
 	text-decoration: none;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	border-radius: 0
 }
 
@@ -467,7 +468,7 @@ html[data-w-dynpage] [data-w-cloak] {
 	overflow: visible !important;
 	white-space: nowrap;
 	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.1);
-	cursor: pointer
+	cursor: url(assets/cursor.png), pointer;
 }
 
 .w-webflow-badge > img {
@@ -598,7 +599,7 @@ button,
 html input[type="button"],
 input[type="reset"] {
 	border: 0;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	-webkit-appearance: button
 }
 
@@ -693,7 +694,7 @@ textarea.w-select {
 
 .w-form-label {
 	display: inline-block;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	font-weight: normal;
 	margin-bottom: 0
 }
@@ -767,7 +768,7 @@ textarea.w-select {
 	display: flex;
 	font-size: 14px;
 	font-weight: normal;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	margin: 0;
 	padding: 8px 12px;
 	border: 1px solid #cccccc;
@@ -797,7 +798,7 @@ textarea.w-select {
 	height: auto;
 	padding: 3px;
 	display: block;
-	cursor: pointer
+	cursor: url(assets/cursor.png), pointer;
 }
 
 .w-icon-file-upload-remove {
@@ -821,7 +822,7 @@ textarea.w-select {
 	display: inline-block;
 	font-size: 14px;
 	font-weight: normal;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	margin: 0;
 	padding: 8px 12px;
 	border: 1px solid #cccccc;
@@ -1441,7 +1442,7 @@ textarea.w-select {
 	width: 1em;
 	height: 1em;
 	background-color: rgba(255, 255, 255, 0.4);
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	margin: 0 3px .5em;
 	transition: background-color 100ms, color 100ms
 }
@@ -1459,7 +1460,7 @@ textarea.w-select {
 	bottom: 0;
 	left: 0;
 	margin: auto;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	overflow: hidden;
 	color: white;
 	font-size: 40px;
@@ -1528,7 +1529,7 @@ textarea.w-select {
 	-ms-user-select: none;
 	user-select: none;
 	display: inline-block;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), url(assets/cursor.png), pointer;
 	padding-right: 40px
 }
 
@@ -1698,7 +1699,7 @@ textarea.w-select {
 }
 
 .w-lightbox-group .w-lightbox-figure {
-	cursor: pointer
+	cursor: url(assets/cursor.png), 
 }
 
 .w-lightbox-img {
@@ -1748,7 +1749,7 @@ textarea.w-select {
 	background-size: 24px;
 	background-repeat: no-repeat;
 	background-position: center;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), url(assets/cursor.png), pointer;
 	-webkit-transition: all .3s;
 	transition: all .3s
 }
@@ -1791,7 +1792,7 @@ textarea.w-select {
 	width: 10vh;
 	padding: 2vh 1vh;
 	box-sizing: content-box;
-	cursor: pointer;
+	cursor: ;
 	-webkit-transform: translate3d(0, 0, 0)
 }
 
@@ -2166,7 +2167,7 @@ textarea.w-select {
 	padding: 18px;
 	font-size: 24px;
 	display: none;
-	cursor: pointer;
+	cursor: ;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 	tap-highlight-color: rgba(0, 0, 0, 0);
 	-webkit-user-select: none;
@@ -2251,7 +2252,7 @@ textarea.w-select {
 	text-decoration: none;
 	padding: 9px 30px;
 	text-align: left;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	color: #222222;
 	background-color: #dddddd
 }
@@ -2403,7 +2404,7 @@ textarea.w-select {
 	border-right-width: 0px;
 	border-top-width: 0px;
 	color: #fff;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	padding-top: 9px;
 	padding-bottom: 9px;
 	padding-left: 15px;
@@ -2456,7 +2457,7 @@ textarea.w-select {
 	border-right-width: 0px;
 	border-top-width: 0px;
 	color: #fff;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	padding-top: 9px;
 	padding-bottom: 9px;
 	padding-left: 15px;
@@ -2895,7 +2896,7 @@ textarea.w-select {
 	border-right-width: 0px;
 	border-top-width: 0px;
 	color: #fff;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
@@ -2934,7 +2935,7 @@ textarea.w-select {
 	border-right-width: 0px;
 	border-top-width: 0px;
 	color: #fff;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	padding-left: 15px;
@@ -2980,7 +2981,7 @@ textarea.w-select {
 	border-right-width: 0px;
 	border-top-width: 0px;
 	color: #fff;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	padding-top: 9px;
 	padding-bottom: 9px;
 	padding-left: 15px;
@@ -4399,7 +4400,7 @@ textarea.w-select {
 	border-right-width: 0px;
 	border-top-width: 0px;
 	color: #fff;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 	padding-top: 9px;
 	padding-bottom: 9px;
 	padding-left: 15px;
@@ -6386,7 +6387,7 @@ blockquote {
 	z-index: 2;
 	width: 100%;
 	height: 100%;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 }
 
 .tooltip_hover-trigger.about {
@@ -7252,7 +7253,7 @@ blockquote {
 	transition: color 200ms ease;
 	font-size: 1.25rem;
 	line-height: 2;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 }
 
 .accordion-item-content {
@@ -8250,7 +8251,7 @@ blockquote {
 	align-items: center;
 	border-radius: 100px;
 	background-color: #646e7a;
-	cursor: pointer;
+	cursor: url(assets/cursor.png), pointer;
 }
 
 .middle-always {
