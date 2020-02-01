@@ -1209,7 +1209,6 @@ textarea.w-select {
 }
 
 .w-widget-twitter-count-shim * {
-	pointer-events: none;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
@@ -9561,6 +9560,7 @@ blockquote {
 		-webkit-align-items: stretch;
 		-ms-flex-align: stretch;
 		align-items: stretch;
+		cursor: url(assets/cursor.png), pointer;
 	}
 
 	.h4-black-mobile {
