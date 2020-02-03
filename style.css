@@ -5317,9 +5317,8 @@ blockquote {
 }
 
 .bg-image.agency_a-home-2 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df932a8d999cb4c10deb622_agency-portfolio-template-14.jpg");
-	background-position: 50% 50%;
-	background-size: 50%;
+	background-image: url("assets/affiliate.jpg");
+	background-size: 80%;
 	background-repeat: no-repeat;
 }
 
