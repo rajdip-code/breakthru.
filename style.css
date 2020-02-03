@@ -2934,40 +2934,7 @@ blockquote {
 	transform: scale(1.05);
 }
 
-.bg-image.fade-in.studio_a-about_2 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93a9fe6e87134b276a636_agency-portfolio-template-15.jpg");
-	background-position: 50% 50%;
-}
 
-.bg-image.fade-in.studio_a-about_3 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df932a8d999cb4c10deb622_agency-portfolio-template-14.jpg");
-	background-position: 100% 50%;
-}
-
-.bg-image.fade-in.studio_a-about_4 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93bbb05c99ee76b383941_agency-portfolio-template-22.jpg");
-	background-position: 0% 50%;
-}
-
-.bg-image.fade-in.studio_b-home_insta_1 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93dc2d35f75e9bb583145_agency-portfolio-template-07.jpg");
-	background-position: 0% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-.bg-image.fade-in.studio_b-home_insta_2 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93dd0f5f9c9b1d44cc77d_agency-portfolio-template-06.jpg");
-	background-position: 100% 50%;
-}
-
-.bg-image.fade-in.studio_b-home_insta_3 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c32e6e8717a6776b3b7_agency-portfolio-template-18.jpg");
-}
-
-.bg-image.fade-in.studio_b-home_insta_4 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c52e6e871863376b43c_agency-portfolio-template-13.jpg");
-}
 
 .bg-image.fade-in.relativ {
 	position: relative;
@@ -2979,71 +2946,13 @@ blockquote {
 	background-repeat: no-repeat;
 }
 
-.bg-image.agency_a-contact_1 {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93b7f808d42b2f333639d_agency-portfolio-template-20.jpg");
-	background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93b7f808d42b2f333639d_agency-portfolio-template-20.jpg");
-	background-position: 0px 0px, 50% 50%;
-	background-size: auto, cover;
-	background-repeat: repeat, no-repeat;
-}
 
-.bg-image.agency_b-work {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93dd0f5f9c9b1d44cc77d_agency-portfolio-template-06.jpg");
-	background-position: 50% 50%;
-}
-
-.bg-image.agency_b-about {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d39e5493956d25b6232d8f7_photo-1496345875659-11f7dd282d1d.jpeg");
-}
-
-.bg-image.studio_b-about_1 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d39e5493956d25b6232d8f7_photo-1496345875659-11f7dd282d1d.jpeg");
-}
-
-.bg-image.freelance-work_1 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c52e6e871863376b43c_agency-portfolio-template-13.jpg");
-}
 
 .bg-image.greyscale {
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
 }
 
-.bg-image.studio_a-about_1 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93b7f808d42b2f333639d_agency-portfolio-template-20.jpg");
-}
-
-.bg-image.studio_a-about_2 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c32e6e8717a6776b3b7_agency-portfolio-template-18.jpg");
-}
-
-.bg-image.unsplash {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c32e6e8717a6776b3b7_agency-portfolio-template-18.jpg");
-}
-
-.bg-image.studio_b-about_2 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93ba405c99e4f8a38389f_agency-portfolio-template-23.jpg");
-}
-
-.bg-image.studio_b-work_1 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93fbaaf2bb01b703d48a7_agency-portfolio-template-01.jpg");
-}
-
-.bg-image.studio_b-work_2 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93ff89910b73c5cf748e3_agency-portfolio-template-02.jpg");
-}
-
-.bg-image.studio_b-work_3 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df940139396197aa7a5e99f_agency-portfolio-template-05.jpg");
-}
-
-.bg-image.studio_b-work_4 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93fbaaf2bb01b703d48a7_agency-portfolio-template-01.jpg");
-}
-
-.bg-image.offscreen {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93a9fe6e87134b276a636_agency-portfolio-template-15.jpg");
-}
 
 .bg-image.agency_a-contact_2 {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93ba405c99e4f8a38389f_agency-portfolio-template-23.jpg");
@@ -6017,28 +5926,7 @@ blockquote {
 	background-repeat: no-repeat;
 }
 
-.background-image-hero.home-2-2 {
-	left: 0%;
-	top: auto;
-	right: 0%;
-	bottom: 0%;
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c52e6e871863376b43c_agency-portfolio-template-13.jpg");
-	background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c52e6e871863376b43c_agency-portfolio-template-13.jpg");
-	background-position: 0px 0px, 50% 50%;
-	background-size: auto, cover;
-	background-repeat: repeat, no-repeat;
-}
 
-.background-image-hero.home-2-1 {
-	left: 0%;
-	top: auto;
-	right: 0%;
-	bottom: 0%;
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93ff89910b73c5cf748e3_agency-portfolio-template-02.jpg");
-	background-position: 50% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
 
 .right-section {
 	position: absolute;
@@ -7571,34 +7459,6 @@ blockquote {
 
 	.margin-bottom {
 		margin-bottom: 2rem;
-	}
-
-	.bg-image.agency_a-contact_1 {
-		background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93b7f808d42b2f333639d_agency-portfolio-template-20.jpg");
-		background-position: 50% 50%;
-		background-size: cover;
-		background-repeat: no-repeat;
-	}
-
-	.bg-image.agency_a-contact_2 {
-		background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93ba405c99e4f8a38389f_agency-portfolio-template-23.jpg");
-		background-position: 50% 50%;
-		background-size: cover;
-		background-repeat: no-repeat;
-	}
-
-	.bg-image.agency_a-contact_3 {
-		background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93bbb05c99ee76b383941_agency-portfolio-template-22.jpg");
-		background-position: 50% 50%;
-		background-size: cover;
-		background-repeat: no-repeat;
-	}
-
-	.bg-image.agency_a-contact_4 {
-		background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93bd605c99e962838396a_agency-portfolio-template-21.jpg");
-		background-position: 50% 50%;
-		background-size: cover;
-		background-repeat: no-repeat;
 	}
 
 	.margin-paragraph {
