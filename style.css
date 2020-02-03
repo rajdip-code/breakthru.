@@ -1,8 +1,4 @@
 
-/* 
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
-*/
-
 
 html {
 	font-family: sans-serif;
@@ -2954,45 +2950,7 @@ blockquote {
 }
 
 
-.bg-image.agency_a-contact_2 {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93ba405c99e4f8a38389f_agency-portfolio-template-23.jpg");
-	background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93ba405c99e4f8a38389f_agency-portfolio-template-23.jpg");
-	background-position: 0px 0px, 50% 50%;
-	background-size: auto, cover;
-	background-repeat: repeat, no-repeat;
-}
 
-.bg-image.agency_a-contact_3 {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93bbb05c99ee76b383941_agency-portfolio-template-22.jpg");
-	background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93bbb05c99ee76b383941_agency-portfolio-template-22.jpg");
-	background-position: 0px 0px, 50% 50%;
-	background-size: auto, cover;
-	background-repeat: repeat, no-repeat;
-}
-
-.bg-image.agency_a-contact_4 {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93bd605c99e962838396a_agency-portfolio-template-21.jpg");
-	background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93bd605c99e962838396a_agency-portfolio-template-21.jpg");
-	background-position: 0px 0px, 50% 50%;
-	background-size: auto, cover;
-	background-repeat: repeat, no-repeat;
-}
-
-.bg-image.logos {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93859e51cd13fe68748a5_fake-logo-06.svg"), -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.95)), to(rgba(51, 51, 51, 0.95)));
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93859e51cd13fe68748a5_fake-logo-06.svg"), linear-gradient(180deg, rgba(51, 51, 51, 0.95), rgba(51, 51, 51, 0.95));
-	background-position: 50% 50%, 0px 0px;
-	background-size: 50%, auto;
-	background-repeat: no-repeat, repeat;
-}
-
-.bg-image.icons {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d4ace80faeb2dbc173473b2_Orion_broken-url.svg"), -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.95)), to(rgba(51, 51, 51, 0.95)));
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d4ace80faeb2dbc173473b2_Orion_broken-url.svg"), linear-gradient(180deg, rgba(51, 51, 51, 0.95), rgba(51, 51, 51, 0.95));
-	background-position: 50% 50%, 0px 0px;
-	background-size: 25%, auto;
-	background-repeat: no-repeat, repeat;
-}
 
 .margin-paragraph {
 	position: relative;
@@ -3878,73 +3836,6 @@ blockquote {
 	line-height: 1;
 }
 
-.tooltip.thumb {
-	top: -128px;
-	z-index: 0;
-	display: none;
-	width: 256px;
-	height: 256px;
-	border-radius: 0px;
-	background-color: transparent;
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df942eed896f061847b19ac_agency-portfolio-template-29.jpg");
-	background-position: 50% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-.tooltip.about {
-	left: 128px;
-	top: -15vw;
-	z-index: 2;
-	display: none;
-	width: 20vw;
-	height: 30vw;
-	min-height: 384px;
-	min-width: 256px;
-	padding: 0px;
-	border-radius: 0px;
-	background-color: transparent;
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d39e5493956d25b6232d8f7_photo-1496345875659-11f7dd282d1d.jpeg");
-	background-position: 50% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-.tooltip.editorial {
-	left: 128px;
-	top: -15vw;
-	z-index: 2;
-	display: none;
-	width: 20vw;
-	height: 30vw;
-	min-height: 384px;
-	min-width: 256px;
-	padding: 0px;
-	border-radius: 0px;
-	background-color: transparent;
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df941f29396190ee4a5fb22_agency-portfolio-template-26.jpg");
-	background-position: 50% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-.tooltip.commercial {
-	left: 128px;
-	top: -15vw;
-	z-index: 2;
-	display: none;
-	width: 20vw;
-	height: 30vw;
-	min-height: 384px;
-	min-width: 256px;
-	padding: 0px;
-	border-radius: 0px;
-	background-color: transparent;
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c2005c99e1efa383a1d_agency-portfolio-template-03.jpg");
-	background-position: 50% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
 
 .tooltip_hover-trigger {
 	position: relative;
@@ -4454,9 +4345,6 @@ blockquote {
 	background-repeat: no-repeat;
 }
 
-.hero-cutted-img.agency_b-hero_1 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93c2005c99e1efa383a1d_agency-portfolio-template-03.jpg");
-}
 
 .absolute-hero {
 	position: absolute;
@@ -4634,21 +4522,7 @@ blockquote {
 	opacity: 0.5;
 }
 
-.awards-gif {
-	position: relative;
-	top: -8px;
-	display: inline-block;
-	width: 64px;
-	height: 64px;
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d39a0d9040fc81f55df9dc7_awards-logos-dark.gif");
-	background-position: 50% 50%;
-	background-size: cover;
-	color: transparent;
-}
 
-.awards-gif.white {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93785e51cd1d282873fcc_awards-logos-white.gif");
-}
 
 .hairline {
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
@@ -4715,20 +4589,6 @@ blockquote {
 	width: 100%;
 	height: 100%;
 	border-radius: 100px;
-}
-
-.avatar.contact-1 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5d39e5493956d25b6232d8f7_photo-1496345875659-11f7dd282d1d.jpeg");
-	background-position: 50% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
-.avatar.contact-2 {
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df93a9fe6e87134b276a636_agency-portfolio-template-15.jpg");
-	background-position: 50% 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
 }
 
 .avatar-holder {
@@ -5046,17 +4906,6 @@ blockquote {
 	height: 100%;
 }
 
-.client-gif {
-	position: relative;
-	display: inline-block;
-	width: 6vw;
-	height: 6vw;
-	background-image: url("https://assets.website-files.com/5d36b83e8b28ad86c6c0b752/5df9411743cccb5527099b5b_awards-logos-black.gif");
-	background-position: 50% 50%;
-	background-size: 64px;
-	background-repeat: no-repeat;
-	color: transparent;
-}
 
 .growth-section {
 	position: relative;
